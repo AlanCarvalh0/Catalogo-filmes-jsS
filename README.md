@@ -5,7 +5,7 @@ Nome: Alan Carvalho
  Matrícula: 895804
 
  Print da execução (Console)
-![Console](console.png)
+![Console](listagem.png)
 
 Print do resumo na tela (div#output)
-![Resumo na tela](resumo-tela.png)
+![Resumo na tela](catalago.png)
